@@ -1,11 +1,10 @@
-# Cross-Domain Visual Correspondence
 
-does a handwritten digit end up looking like a particular bird,
-a particular object, a particular abstract shape? Given a digit 0-8, the pipeline finds the
-shape, the bird, and the object whose silhouette most resembles it. Nothing is labelled by
-hand and nothing is trained the correspondences are discovered from edge/shape features alone.
 
-![Digit -> Shape / Bird / Object correspondences](docs/images/gallery.png)
+<h1 align="center">Cross-Domain Visual Correspondence</h1>
+
+<p align="center">
+  <img src="docs/images/adad.gif" alt="Digit -> Shape / Bird / Object correspondences" width="320">
+</p>
 
 Each block above is a 3x3 matrix of digits 0-8. Reading left to right, the four columns are the
 same digits, then the dSprites shape, the CUB bird, and the CIFAR-10 object each digit was
