@@ -3,7 +3,7 @@
 <h1 align="center">Cross-Domain Visual Correspondence</h1>
 
 <p align="center">
-  <img src="docs/images/adad.gif" alt="Digit -> Shape / Bird / Object correspondences" width="320">
+  <img src="docs/images/adad2.gif" alt="Digit -> Shape / Bird / Object correspondences" width="320">
 </p>
 
 Each block above is a 3x3 matrix of digits 0-8. Reading left to right, the four columns are the
